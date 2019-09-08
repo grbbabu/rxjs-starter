@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.3",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.6.2",
+    "webpack": "^4.39.3",
+    "webpack-dev-server": "^3.8.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.8"
+  }
+}
